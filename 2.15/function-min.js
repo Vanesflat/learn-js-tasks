@@ -1,0 +1,1 @@
+const min = (num1, num2) => Math.min(num1, num2);
